@@ -1,0 +1,1 @@
+1. Application dnet-6-0-multi-select-app has been successfully deployed!!
